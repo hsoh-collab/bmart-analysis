@@ -1,3 +1,4 @@
+```
 bmart-analysis/ 
 ├── README.md                
 ├── 01. v1-draft/                # 초안 버전 (6개 파일)
@@ -11,3 +12,4 @@ bmart-analysis/
     └── assets/              # 최종 로직 기반 제작 이미지 폴더
         ├── 02-coupon-event.png
         └── 04-payment.png
+```
