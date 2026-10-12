@@ -16,7 +16,7 @@
     ├── 04-1-payment.md
     ├── 04-2-Order Management.md
     ├── 04-3-reconciliation.md
-    └── 📁 assets/                  # 최종 로직 기반 제작 이미지 폴더
+    └── 📁 assets/                  # 최종 로직 기반 흐름도
         ├── 02-coupon-event.png
         └── 04-payment.png
 ```
