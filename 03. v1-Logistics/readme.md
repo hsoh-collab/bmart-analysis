@@ -7,5 +7,6 @@
 
 3. TMS-final.md
   * TMS-business-logic.md + TMS-basic-v2.md (업무 범주 기준)
-3-1. TMs-mermaid-guide.md
+
+4. TMs-mermaid-guide.md
   * TMS-final.md 원문으로 작성한 mermaid
