@@ -1,5 +1,6 @@
 # Dilevery 연계성 x
 - commerce, OMS 존재
+- commerce : 고객 앱 사용자
 
 1. TMS-business-logic-expanded.md
   * TMS-business-logic.md + TMS-basic.md
