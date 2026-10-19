@@ -3,7 +3,7 @@
   * TMS-business-logic.md + TMS-basic.md
 
 2. TMS-cross-domain-collaboration.md
-
+ * TMS-business-logic-expanded.md + 협업 내용 상세 
 
 3. TMS-final.md
   * TMS-business-logic.md + TMS-basic-v2.md (업무 범주 기준)
