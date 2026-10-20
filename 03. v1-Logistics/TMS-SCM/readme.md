@@ -3,7 +3,7 @@
 
 # 목차
 1. SCM-Replenishment-business-logic-cdc-ppc.md
-   * SCM-Replenishment-business-logic.md + 위 TMS 파일의 정보
+   * SCM-Replenishment-business-logic.md + 아래 TMS 파일의 정보
 2. SCM-Replenishment-business-logic-diagrams.md
 3. TMS-business-logic-in-scope.md
    * TMS-business-logic.md + tms-basic-v2.md
