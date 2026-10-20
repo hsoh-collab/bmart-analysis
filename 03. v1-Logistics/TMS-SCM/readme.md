@@ -1,5 +1,6 @@
 # 공통
 * commerce, OMS, Delivery 제외
+* DC -> CDC / PPC -> MFC 변경
 
 # 목차
 1. SCM-Replenishment-business-logic-cdc-ppc.md
