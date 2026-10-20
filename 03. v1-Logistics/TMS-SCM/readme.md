@@ -1,6 +1,7 @@
 # 공통
 * commerce, OMS, Delivery 제외
 * DC -> CDC / PPC -> MFC 변경
+* SCM : commerce, OMS 내용이 제외되어 버림
 
 # 목차
 1. SCM-Replenishment-business-logic-cdc-ppc.md
