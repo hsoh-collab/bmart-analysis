@@ -7,3 +7,5 @@
 
 ## message distribute 
 * part 17-18
+
+## kafka & debezium cdc
